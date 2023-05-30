@@ -2,6 +2,7 @@
 *{
 	margin:0;
 	padding:0;
+	background-color:#f8f8f8;
 }
 
 .heading{
@@ -15,14 +16,13 @@
 .gap{
 	width:100%;
 	height:10px;
-	color:rgb(255, 255, 255);
+	backgroundcolor:rgb(255, 255, 255);
 		
 }
 .book{
-	background-color:#f8f8f8;
 	padding:10px 15px;
 	display:flex;
-	flex-direction:column;	
+	flex-direction:column;
 }
 
 .img{
@@ -41,4 +41,5 @@
 	background-color:rgb(46, 204, 113);
 	border:none;
 	border-radius:5px;
+	color:white
 }
